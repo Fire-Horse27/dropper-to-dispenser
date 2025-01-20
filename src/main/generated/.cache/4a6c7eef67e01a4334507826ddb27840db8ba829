@@ -1,7 +1,0 @@
-// 1.21	2024-08-11T17:16:26.9195758	dispenser/Recipes
-b0aff5e9457f371cda60155ab708a14262dc4d59 data\dispenser\recipe\dispenser.json
-d8f426d55177b9aa0c58d8c1b95220857628d0eb data\dispenser\advancement\recipes\redstone\dispenser.json
-bc8f5fcec5724d1426a34416840efa7a186a9911 data\dispenser\recipe\dispenser_stackable.json
-124110729c0822d25be8c1722274eabf8999d00b data\dispenser\advancement\recipes\redstone\dispenser_stackable.json
-cafc4dc247f4b665c35229f05e22f761ca19bb7a data\dispenser\advancement\recipes\redstone\dispenser_dropper.json
-98a3dcbda4ab425f5a998f0ac762a2c27294cfff data\dispenser\recipe\dispenser_dropper.json

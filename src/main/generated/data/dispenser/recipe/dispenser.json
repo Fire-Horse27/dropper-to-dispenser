@@ -3,15 +3,9 @@
   "category": "redstone",
   "group": "dispenser",
   "key": {
-    "B": {
-      "item": "minecraft:bow"
-    },
-    "R": {
-      "item": "minecraft:redstone"
-    },
-    "S": {
-      "item": "minecraft:cobblestone"
-    }
+    "B": "minecraft:bow",
+    "R": "minecraft:redstone",
+    "S": "minecraft:cobblestone"
   },
   "pattern": [
     "SSS",
